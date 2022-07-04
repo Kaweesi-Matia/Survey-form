@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(136, 136, 206);
+    padding: 40px 300px 0px 300px;
+    color: white;
+    font-weight: 400px;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    
+}
+#survey-form{
+    display: flex;
+    flex-direction: column;
+    background-color: #1b1b32;
+    height: 620px;
+    width: 700px;
+    padding: 40px 40px 40px 40px;
+    position: absolute;
+    
+  
+    
+
+}
+#email, #number,#name, #drop-down{
+    height: 30px;
+    padding: 5px;
+
+}
+label{
+    margin: left 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+}
+h1{
+    position: relative;
+    left: 130px;
+
+}
+h3{
+    position: relative;
+    left: 110px;
+    bottom: 40px;
+    font-style: italic;
+    font-weight: 200px;
+    
+}
